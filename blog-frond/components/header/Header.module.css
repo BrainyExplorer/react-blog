@@ -1,0 +1,38 @@
+.header {
+    background-color: rgba(148, 181, 212);
+    padding: .4rem;
+    overflow: hidden;
+    height: 10vh;
+    position: sticky;
+    top:0;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+
+.header_logo {
+    color: #1e90ff;
+    font-size: 1.59rem;
+    text-align: left;
+
+}
+
+.header_txt {
+    font-size: 1.2rem;
+    color: #999;
+    display: inline-block;
+    padding-left: 0.3rem;
+}
+
+
+.menu_div ul {
+    background: rgba(148, 181, 212) !important;
+    line-height: 2.6rem;
+
+}
+
+.menu_div ul li {
+    font-size: .7rem !important;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
